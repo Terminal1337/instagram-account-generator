@@ -4,3 +4,6 @@ Instagram gen on Selenium
 
 
 Support : https://discord.gg/cybersec , Terminal#1337
+
+
+- Install latest version of firefox and get geckodriver from https://github.com/mozilla/geckodriver/releases
